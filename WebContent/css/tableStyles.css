@@ -1,0 +1,64 @@
+@CHARSET "ISO-8859-1";
+table.tabborder {border-width:1px; border-spacing:0px; border-style:solid; 
+     border-color:black; border-collapse:separate; background-color:white;}
+table.tabborder th,
+table.tabborder td {border-width:1px; padding:2px;	border-style:inset; 
+     border-color: black;background-color:white;}
+.bold8 {width:200px; font-size:8pt; font-family:verdana,arial,serif; text-align:center; 
+     font-weight:bold;}
+.bold10 {width:100px; font-size:10pt; font-family:verdana,arial,serif; text-align:center; 
+     font-weight:bold;}     
+.pt8 {width:200px; font-size:8pt; font-family:verdana,arial,serif; text-align:center;}
+.index {width:200px; font-size:9pt; font-family:verdana,arial,serif; text-align:left; 
+     font-weight:bold;}
+
+a.one:link {color:#c02707;font-size:8pt; font-family:verdana,arial,serif;}
+a.one:visited {color:#c02707;}
+a.one:hover {color:blue;}
+
+a.two:link {color:black;font-size:8pt; font-family:verdana,arial,serif;}
+a.two:visited {color:black;}
+a.two:hover {color:red;}
+
+a.three:link {color:black;background:#f0e598;border-width:1px;border-color: black;border-style:inset;padding:2px;font-size:8pt; font-family:verdana,arial,serif;}
+a.three:visited {color:black}
+a.three:hover {color:red;}
+
+.backcolourmaroon{background:#e29d89;}
+
+.backcolourcream{background:#f0e598;}
+
+.button {
+background-color:#4CAF50;
+color: #fff;
+border-radius: 30px;
+border: 2px solid #4CAF50;
+text-align:center;
+display:inline-block ;
+font-size:11px;
+}
+
+input[type="submit"]{
+/* change these properties to whatever you want */
+background-color:#4CAF50;
+color: #fff;
+border-radius: 30px;
+border: 2px solid #4CAF50;
+text-align:center;
+display:inline-block ;
+font-size:11px;
+}
+
+input[type="reset"]{
+/* change these properties to whatever you want */
+background-color:#4CAF50;
+color: #fff;
+border-radius: 30px;
+border: 2px solid #4CAF50;
+text-align:center;
+display:inline-block ;
+font-size:11px;
+}
+
+
+
